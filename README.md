@@ -1,3 +1,4 @@
-# CNN-basic-structure
+# Convolutional neural network from scratch
 
-A basic version of building a convolutional neural network using keras
+Building a basic convolutional neural network using keras.
+Tensorflow and keras packages required.
