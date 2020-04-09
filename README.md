@@ -1,5 +1,4 @@
-# Convolutional neural network from scratch
+# Building a ConvNet classifier from scratch
 
-Building a basic convolutional neural network using keras.
-
-Tensorflow and keras packages required.
+Convolutional neural network has been proven to be really effective in computer vision tasks, this notebook
+demonstrate a simple example of how to build a basic ConvNet image classifier using Keras.
